@@ -12,4 +12,4 @@ It took me around 7 hrs to finish this project
 
 ## Project link
 
-[live-class-project-11](https://rainbow-platypus-7bdf81.netlify.app/)
+[live-class-project-12](https://rainbow-platypus-7bdf81.netlify.app/)
